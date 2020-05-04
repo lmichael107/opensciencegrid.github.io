@@ -5,6 +5,8 @@ title: Extra Support for COVID-19 Research
 
 OSG Support for COVID-19 Research
 =================================
+*See a summary of known COVID-19 projects and their usage on different sites in our dedicated
+[COVID-19 accounting page](https://gracc.opensciencegrid.org/dashboard/db/covid-19-research?orgId=1).*
 
 Please contact us at <mailto:help@opensciencegrid.org> if your research group could benefit
 from computing resources or consulting related to COVID-19, or if you would like to support COVID-19
@@ -32,7 +34,7 @@ Any computing resource provider supporting this organization is likely already p
 to support COVID-19.  If you would like to provide addition resources _exclusive_ for COVID-19,
 [instructions are available](https://opensciencegrid.org/docs/compute-element/covid-19/).
 
-*See a summary of COVID-19 projects and their usage on different sites in our dedicated
+*See a summary of known COVID-19 projects and their usage on different sites in our dedicated
 [COVID-19 accounting page](https://gracc.opensciencegrid.org/dashboard/db/covid-19-research?orgId=1).*
 
 Other Activities
